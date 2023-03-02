@@ -1,0 +1,451 @@
+model,price,fuel,counter,release,type
+DS 3 CROSSBACK,26 980 €,Essence,36 970 Km,2021,Automatique
+DS 7 CROSSBACK,44 980 €,Diesel,2 631 Km,2022,Automatique
+DS 7 CROSSBACK,39 980 €,Diesel,29 800 Km,2021,Automatique
+DS 3 CROSSBACK,24 722 €,Diesel,56 500 Km,2019,Automatique
+DS 3 CROSSBACK,25 864 €,Essence,49 700 Km,2020,Automatique
+DS,27 980 €,Essence,35 802 Km,2021,Automatique
+DS 3 CROSSBACK,26 899 €,Diesel,40 751 Km,2020,Automatique
+DS 7,75 990 €,Hybride rechargeable,6 000 Km,2022,Automatique
+DS 3 CROSSBACK,33 290 €,Diesel,10 Km,2022,Automatique
+DS 7 CROSSBACK,43 980 €,Diesel,8 500 Km,2022,Automatique
+DS 9,69 990 €,Hybride,5 000 Km,2022,Automatique
+DS 3 CROSSBACK,33 400 €,Essence,3 000 Km,2020,Automatique
+DS 3 CROSSBACK,29 999 €,Diesel,21 667 Km,2021,Automatique
+DS 7 CROSSBACK,43 990 €,Diesel,20 670 Km,2021,Automatique
+DS 3 CROSSBACK,30 990 €,Diesel,2 639 Km,2022,Automatique
+DS 7 CROSSBACK,34 823 €,Diesel,37 900 Km,2020,Automatique
+DS 9,46 863 €,Hybride,30 500 Km,2021,Automatique
+DS,30 480 €,Essence,12 292 Km,2020,Automatique
+DS 4 CROSSBACK,15 990 €,Diesel,107 613 Km,2017,Automatique
+DS 3 CROSSBACK,25 999 €,Essence,15 407 Km,2019,Automatique
+DS 7 CROSSBACK,32 490 €,Diesel,39 986 Km,2020,Automatique
+DS 3 CROSSBACK,29 999 €,Diesel,21 442 Km,2021,Automatique
+DS 3,16 498 €,Essence,62 796 Km,2017,Manuelle
+DS 7 CROSSBACK,24 899 €,Diesel,100 738 Km,2019,Automatique
+DS 3,16 990 €,Essence,59 378 Km,2018,Manuelle
+DS 3,12 480 €,Essence,98 866 Km,2017,Manuelle
+DS 7 CROSSBACK,26 590 €,Diesel,100 209 Km,2018,Automatique
+DS 7 CROSSBACK,46 499 €,Hybride rechargeable,5 559 Km,2021,Automatique
+DS 3 CROSSBACK,27 922 €,Essence,19 818 Km,2020,Automatique
+DS 3 CROSSBACK,22 990 €,Essence,47 700 Km,2019,Automatique
+DS 4,43 999 €,Essence,17 345 Km,2022,Automatique
+DS 3 CROSSBACK,24 622 €,Diesel,59 348 Km,2019,Automatique
+DS 7 CROSSBACK,21 799 €,Diesel,126 577 Km,2018,Manuelle
+DS 9,49 990 €,Hybride,5 425 Km,2022,Automatique
+DS 3 CROSSBACK,29 980 €,Essence,16 921 Km,2021,Automatique
+DS 7 CROSSBACK,24 862 €,Diesel,97 400 Km,2018,Manuelle
+DS 9,52 980 €,Hybride,4 800 Km,2021,Automatique
+DS 4,44 999 €,Essence,1 185 Km,2021,Automatique
+DS 7 CROSSBACK,35 980 €,Diesel,24 169 Km,2021,Automatique
+DS 7 CROSSBACK,36 990 €,Hybride rechargeable,69 788 Km,2020,Automatique
+DS 4,18 980 €,Diesel,62 447 Km,2017,Automatique
+DS 5,17 990 €,Diesel,64 602 Km,2016,Manuelle
+DS 3 CROSSBACK,29 299 €,Diesel,10 942 Km,2021,Automatique
+DS 7 CROSSBACK,57 980 €,Hybride rechargeable,16 500 Km,2022,Automatique
+DS 3,15 980 €,Essence,43 080 Km,2016,Manuelle
+DS 3 CROSSBACK,27 999 €,Diesel,27 445 Km,2021,Automatique
+DS 3 CROSSBACK,26 900 €,Diesel,55 522 Km,2020,Automatique
+DS 7 CROSSBACK,34 900 €,Diesel,44 158 Km,2019,Automatique
+DS 3,13 890 €,Essence,81 542 Km,2017,Manuelle
+DS 7 CROSSBACK,37 999 €,Diesel,49 949 Km,2020,Automatique
+DS 4,43 500 €,Hybride,31 585 Km,2021,Automatique
+DS 3 CROSSBACK,25 299 €,Diesel,53 771 Km,2019,Automatique
+DS 7 CROSSBACK,32 426 €,Diesel,43 500 Km,2019,Automatique
+DS 3 CROSSBACK,31 980 €,Diesel,10 Km,2022,Automatique
+DS 7 CROSSBACK,43 480 €,Diesel,11 500 Km,2022,Automatique
+DS 7 CROSSBACK,26 980 €,Diesel,93 633 Km,2019,Automatique
+DS 7 CROSSBACK,45 499 €,Hybride rechargeable,24 518 Km,2022,Automatique
+DS 3,17 480 €,Essence,31 000 Km,2019,Automatique
+DS 3 CROSSBACK,24 999 €,Essence,17 106 Km,2019,Manuelle
+DS 3 CROSSBACK,32 799 €,Electrique,3 377 Km,2021,Automatique
+DS,33 980 €,Diesel,49 144 Km,2018,Automatique
+DS 3 CROSSBACK,39 990 €,Electrique,5 000 Km,2022,Automatique
+DS 7 CROSSBACK,44 980 €,Diesel,7 800 Km,2022,Automatique
+DS 7 CROSSBACK,28 932 €,Diesel,70 378 Km,2019,Automatique
+DS 7 CROSSBACK,24 490 €,Diesel,98 327 Km,2018,Manuelle
+DS 3 CROSSBACK,24 872 €,Diesel,78 200 Km,2020,Automatique
+DS 3 CROSSBACK,28 999 €,Diesel,53 498 Km,2021,Automatique
+DS 3 CROSSBACK,23 999 €,Essence,38 416 Km,2020,Manuelle
+DS 7 CROSSBACK,32 990 €,Diesel,30 142 Km,2020,Automatique
+DS 7 CROSSBACK,46 000 €,Diesel,18 200 Km,2021,Automatique
+DS 3 CROSSBACK,27 899 €,Essence,7 000 Km,2021,Automatique
+DS 3 CROSSBACK,24 990 €,Essence,55 988 Km,2019,Automatique
+DS 9,52 999 €,Hybride,20 947 Km,2021,Automatique
+DS 3 CROSSBACK,23 799 €,Diesel,69 826 Km,2021,Manuelle
+DS 3 CROSSBACK,24 280 €,Essence,40 189 Km,2021,Manuelle
+DS 3 CROSSBACK,31 999 €,Essence,10 Km,2022,Automatique
+DS 7 CROSSBACK,50 990 €,Hybride rechargeable,18 900 Km,2021,Automatique
+DS 3 CROSSBACK,35 990 €,Diesel,722 Km,2022,Automatique
+DS 7 CROSSBACK,44 999 €,Hybride rechargeable,26 433 Km,2022,Automatique
+DS 3 CROSSBACK,25 490 €,Diesel,51 128 Km,2020,Automatique
+DS 3 CROSSBACK,29 990 €,Essence,19 000 Km,2021,Automatique
+DS 3 CROSSBACK,21 990 €,Diesel,71 500 Km,2019,Manuelle
+DS 7,66 990 €,Hybride rechargeable,8 000 Km,2022,Automatique
+DS 3 CROSSBACK,28 979 €,Essence,17 059 Km,2020,Automatique
+DS 3 CROSSBACK,25 839 €,Essence,28 400 Km,2019,Automatique
+DS 7 CROSSBACK,40 499 €,Hybride rechargeable,26 072 Km,2021,Automatique
+DS 4,32 826 €,Essence,16 500 Km,2022,Automatique
+DS 3 CROSSBACK,34 817 €,Electrique,6 500 Km,2021,Automatique
+DS 3 CROSSBACK,28 990 €,Diesel,100 Km,2022,Manuelle
+DS 3 CROSSBACK,28 998 €,Diesel,39 529 Km,2021,Automatique
+DS 7 CROSSBACK,44 790 €,Hybride rechargeable,19 125 Km,2021,Automatique
+DS 3 CROSSBACK,26 480 €,Essence,31 500 Km,2021,Automatique
+DS 3 CROSSBACK,25 999 €,Essence,11 293 Km,2019,Automatique
+DS 7 CROSSBACK,52 990 €,Hybride rechargeable,100 Km,2021,Automatique
+DS 4,39 900 €,Hybride,28 119 Km,2021,Automatique
+DS 3,17 980 €,Essence,42 520 Km,2018,Manuelle
+DS 7 CROSSBACK,41 999 €,Diesel,18 578 Km,2021,Automatique
+DS 7 CROSSBACK,32 699 €,Diesel,90 132 Km,2019,Automatique
+DS 3 CROSSBACK,29 999 €,Electrique,7 850 Km,2020,Automatique
+DS 3 CROSSBACK,30 399 €,Essence,4 949 Km,2022,Automatique
+DS 3 CROSSBACK,30 499 €,Diesel,646 Km,2021,Automatique
+DS 7 CROSSBACK,21 990 €,Diesel,131 640 Km,2018,Manuelle
+DS 3,14 990 €,Essence,85 398 Km,2016,Automatique
+DS 3 CROSSBACK,23 980 €,Diesel,22 494 Km,2020,Manuelle
+DS 3 CROSSBACK,22 990 €,Essence,24 900 Km,2019,Manuelle
+DS 7 CROSSBACK,49 490 €,Hybride rechargeable,41 137 Km,2021,Automatique
+DS 3 CROSSBACK,21 980 €,Essence,50 050 Km,2021,Manuelle
+DS 7 CROSSBACK,34 472 €,Diesel,42 348 Km,2021,Automatique
+DS 7 CROSSBACK,36 499 €,Diesel,3 477 Km,2021,Automatique
+DS 7 CROSSBACK,45 482 €,Hybride rechargeable,30 906 Km,2021,Automatique
+DS 3 CROSSBACK,29 499 €,Diesel,30 799 Km,2021,Automatique
+DS 7 CROSSBACK,45 990 €,Hybride rechargeable,20 162 Km,2021,Automatique
+DS 3 CROSSBACK,26 980 €,Essence,20 729 Km,2021,Automatique
+DS 3 CROSSBACK,26 852 €,Essence,48 400 Km,2019,Automatique
+DS 7 CROSSBACK,42 200 €,Diesel,9 000 Km,2021,Automatique
+DS 3 CROSSBACK,30 999 €,Diesel,10 Km,2022,Automatique
+DS 3,13 999 €,Diesel,68 634 Km,2017,Manuelle
+DS 7 CROSSBACK,28 980 €,Essence,80 868 Km,2017,Automatique
+DS 3 CROSSBACK,28 980 €,Electrique,20 514 Km,2020,Automatique
+DS 7 CROSSBACK,42 980 €,Diesel,11 300 Km,2022,Automatique
+DS 3 CROSSBACK,26 990 €,Essence,40 376 Km,2020,Automatique
+DS 7 CROSSBACK,54 980 €,Hybride rechargeable,13 459 Km,2021,Automatique
+DS 3 CROSSBACK,23 880 €,Diesel,94 978 Km,2020,Automatique
+DS 3 CROSSBACK,31 990 €,Electrique,8 489 Km,2021,Automatique
+DS 7 CROSSBACK,28 990 €,Diesel,110 158 Km,2018,Automatique
+DS 3,19 452 €,Essence,38 000 Km,2019,Automatique
+DS 7 CROSSBACK,24 980 €,Essence,40 648 Km,2018,Manuelle
+DS 3 CROSSBACK,22 990 €,Essence,100 309 Km,2019,Automatique
+DS 5,16 790 €,Diesel,63 090 Km,2018,Manuelle
+DS 3 CROSSBACK,28 990 €,Essence,23 459 Km,2020,Automatique
+DS 3 CROSSBACK,24 902 €,Essence,44 641 Km,2019,Automatique
+DS 3 CROSSBACK,29 979 €,Electrique,12 500 Km,2021,Automatique
+DS 4,42 990 €,Essence,19 650 Km,2021,Automatique
+DS 3,14 490 €,Essence,64 461 Km,2017,Manuelle
+DS 7 CROSSBACK,34 980 €,Diesel,36 366 Km,2019,Automatique
+DS 3 CROSSBACK,32 390 €,Essence,15 186 Km,2022,Automatique
+DS 3 CROSSBACK,24 490 €,Diesel,40 622 Km,2019,Automatique
+DS 7 CROSSBACK,28 980 €,Diesel,94 226 Km,2019,Automatique
+DS 4,40 299 €,Essence,29 241 Km,2021,Automatique
+DS 4,14 690 €,Diesel,95 343 Km,2018,Manuelle
+DS 3 CROSSBACK,23 980 €,Essence,39 395 Km,2021,Manuelle
+DS 7 CROSSBACK,34 990 €,Diesel,35 153 Km,2021,Automatique
+DS 3 CROSSBACK,22 840 €,Diesel,74 200 Km,2019,Automatique
+DS 7 CROSSBACK,32 999 €,Diesel,60 600 Km,2018,Automatique
+DS 7 CROSSBACK,31 499 €,Diesel,89 442 Km,2019,Automatique
+DS 7 CROSSBACK,41 999 €,Hybride rechargeable,65 972 Km,2020,Automatique
+DS 7 CROSSBACK,33 799 €,Diesel,65 544 Km,2019,Automatique
+DS 7 CROSSBACK,57 842 €,Hybride rechargeable,4 700 Km,2021,Automatique
+DS 3 CROSSBACK,24 452 €,Diesel,39 800 Km,2020,Automatique
+DS 3,11 679 €,Diesel,83 982 Km,2016,Manuelle
+DS 3 CROSSBACK,23 980 €,Essence,20 797 Km,2019,Manuelle
+DS 3 CROSSBACK,27 999 €,Essence,19 884 Km,2020,Automatique
+DS 7 CROSSBACK,45 999 €,Hybride rechargeable,32 919 Km,2021,Automatique
+DS 7 CROSSBACK,42 493 €,Diesel,20 250 Km,2021,Automatique
+DS 7 CROSSBACK,27 980 €,Diesel,56 600 Km,2019,Automatique
+DS 3 CROSSBACK,31 999 €,Essence,9 999 Km,2021,Automatique
+DS 7 CROSSBACK,52 990 €,Hybride rechargeable,13 972 Km,2021,Automatique
+DS 7 CROSSBACK,49 990 €,Hybride,17 900 Km,2021,Automatique
+DS 3 CROSSBACK,20 990 €,Essence,72 627 Km,2019,Automatique
+DS 3 CROSSBACK,22 980 €,Essence,53 099 Km,2020,Manuelle
+DS 3 CROSSBACK,42 900 €,Electrique,5 000 Km,2021,Automatique
+DS 7 CROSSBACK,44 872 €,Diesel,500 Km,2022,Automatique
+DS 3 CROSSBACK,30 499 €,Essence,10 Km,2022,Automatique
+DS 3,13 299 €,Diesel,85 978 Km,2017,Manuelle
+DS 7 CROSSBACK,40 490 €,Diesel,15 210 Km,2021,Automatique
+DS 3 CROSSBACK,27 980 €,Essence,34 200 Km,2020,Automatique
+DS 3 CROSSBACK,33 690 €,Diesel,10 Km,2022,Automatique
+DS 4 CROSSBACK,14 980 €,Essence,92 065 Km,2016,Manuelle
+DS 3 CROSSBACK,28 680 €,Diesel,39 526 Km,2021,Automatique
+DS 7 CROSSBACK,47 999 €,Hybride rechargeable,10 789 Km,2021,Automatique
+DS 3 CROSSBACK,29 480 €,Essence,26 670 Km,2021,Automatique
+DS 3 CROSSBACK,27 990 €,Electrique,7 590 Km,2021,Automatique
+DS 7 CROSSBACK,53 990 €,Hybride rechargeable,8 000 Km,2022,Automatique
+DS 7 CROSSBACK,52 999 €,Hybride rechargeable,13 967 Km,2021,Automatique
+DS 9,54 999 €,Hybride,19 006 Km,2021,Automatique
+DS 7 CROSSBACK,45 999 €,Hybride rechargeable,9 725 Km,2021,Automatique
+DS 3 CROSSBACK,27 300 €,Essence,28 459 Km,2020,Automatique
+DS 7 CROSSBACK,51 593 €,Hybride rechargeable,18 250 Km,2021,Automatique
+DS 3 CROSSBACK,26 990 €,Electrique,23 333 Km,2020,Automatique
+DS 3 CROSSBACK,28 990 €,Diesel,17 296 Km,2020,Automatique
+DS 7 CROSSBACK,50 999 €,Hybride rechargeable,10 070 Km,2022,Automatique
+DS 7 CROSSBACK,37 290 €,Diesel,34 324 Km,2019,Automatique
+DS 7 CROSSBACK,33 299 €,Diesel,39 505 Km,2020,Automatique
+DS 4,14 649 €,Diesel,80 001 Km,2017,Manuelle
+DS 7 CROSSBACK,40 990 €,Diesel,21 950 Km,2021,Automatique
+DS 7 CROSSBACK,24 590 €,Diesel,60 835 Km,2019,Manuelle
+DS 3 CROSSBACK,22 980 €,Diesel,56 236 Km,2019,Manuelle
+DS 9,47 825 €,Hybride,4 600 Km,2021,Automatique
+DS 3 CROSSBACK,29 979 €,Essence,15 543 Km,2020,Automatique
+DS 3 CROSSBACK,26 874 €,Electrique,28 000 Km,2020,Automatique
+DS 7 CROSSBACK,52 990 €,Hybride rechargeable,12 880 Km,2021,Automatique
+DS 7 CROSSBACK,41 480 €,Diesel,13 700 Km,2022,Automatique
+DS 9,56 999 €,Hybride,10 017 Km,2022,Automatique
+DS 3 CROSSBACK,24 980 €,Essence,13 659 Km,2021,Manuelle
+DS 7 CROSSBACK,33 998 €,Essence,54 237 Km,2019,Automatique
+DS 7 CROSSBACK,43 290 €,Hybride rechargeable,33 389 Km,2020,Automatique
+DS 3 CROSSBACK,43 990 €,Diesel,3 432 Km,2022,Automatique
+DS 7 CROSSBACK,33 999 €,Diesel,41 888 Km,2020,Automatique
+DS 7 CROSSBACK,35 999 €,Diesel,42 346 Km,2021,Automatique
+DS 3 CROSSBACK,29 900 €,Essence,12 696 Km,2021,Automatique
+DS 3 CROSSBACK,31 499 €,Diesel,15 Km,2022,Automatique
+DS 3 CROSSBACK,23 980 €,Essence,33 008 Km,2019,Automatique
+DS 3 CROSSBACK,29 900 €,Diesel,14 756 Km,2020,Automatique
+DS 3,15 500 €,Essence,35 852 Km,2016,Manuelle
+DS 4,39 990 €,Hybride,2 500 Km,2023,Automatique
+DS 3 CROSSBACK,34 499 €,Essence,6 131 Km,2021,Automatique
+DS 3,20 480 €,Essence,19 882 Km,2017,Manuelle
+DS 7 CROSSBACK,49 990 €,Hybride rechargeable,4 500 Km,2021,Automatique
+DS 7 CROSSBACK,39 499 €,Diesel,4 681 Km,2022,Automatique
+DS 7 CROSSBACK,28 190 €,Diesel,56 586 Km,2018,Automatique
+DS 3 CROSSBACK,34 699 €,Essence,100 Km,2022,Automatique
+DS 7 CROSSBACK,35 999 €,Diesel,53 145 Km,2019,Automatique
+DS 3 CROSSBACK,27 999 €,Diesel,29 026 Km,2020,Automatique
+DS 7 CROSSBACK,28 490 €,Diesel,88 656 Km,2019,Automatique
+DS 7 CROSSBACK,36 824 €,Diesel,34 800 Km,2019,Automatique
+DS 7 CROSSBACK,29 699 €,Diesel,61 224 Km,2019,Automatique
+DS 3 CROSSBACK,27 779 €,Essence,13 138 Km,2020,Automatique
+DS 3 CROSSBACK,29 990 €,Electrique,10 117 Km,2020,Automatique
+DS 3,11 900 €,Essence,107 611 Km,2015,Manuelle
+DS 3 CROSSBACK,21 922 €,Diesel,94 461 Km,2020,Automatique
+DS 7 CROSSBACK,31 999 €,Diesel,73 061 Km,2019,Automatique
+DS 4 CROSSBACK,13 491 €,Diesel,112 795 Km,2016,Automatique
+DS 7 CROSSBACK,44 799 €,Hybride rechargeable,11 928 Km,2021,Automatique
+DS 4,12 890 €,Diesel,118 176 Km,2017,Manuelle
+DS 7 CROSSBACK,45 999 €,Hybride rechargeable,30 298 Km,2020,Automatique
+DS 7 CROSSBACK,29 990 €,Diesel,80 050 Km,2019,Automatique
+DS 3 CROSSBACK,17 979 €,Essence,99 157 Km,2019,Manuelle
+DS 7 CROSSBACK,43 980 €,Diesel,7 700 Km,2022,Automatique
+DS 3 CROSSBACK,26 480 €,Essence,38 255 Km,2021,Automatique
+DS 3 CROSSBACK,35 980 €,Electrique,15 988 Km,2021,Automatique
+DS 7 CROSSBACK,35 428 €,Diesel,44 400 Km,2019,Automatique
+DS 3 CROSSBACK,36 980 €,Electrique,5 400 Km,2022,Automatique
+DS 3 CROSSBACK,30 299 €,Diesel,14 600 Km,2021,Automatique
+DS 4,14 980 €,Essence,49 540 Km,2017,Manuelle
+DS 3 CROSSBACK,30 817 €,Diesel,28 200 Km,2021,Automatique
+DS 3 CROSSBACK,26 990 €,Essence,35 120 Km,2019,Automatique
+DS 7 CROSSBACK,39 990 €,Diesel,9 097 Km,2022,Automatique
+DS 7 CROSSBACK,26 873 €,Essence,53 000 Km,2019,Manuelle
+DS 7 CROSSBACK,53 990 €,Hybride rechargeable,7 523 Km,2022,Automatique
+DS 7 CROSSBACK,45 480 €,Diesel,9 000 Km,2022,Automatique
+DS 4,42 422 €,Hybride,27 900 Km,2021,Automatique
+DS 3 CROSSBACK,30 299 €,Essence,15 950 Km,2021,Automatique
+DS 7 CROSSBACK,46 782 €,Hybride rechargeable,45 900 Km,2021,Automatique
+DS 5,19 499 €,Diesel,80 435 Km,2017,Automatique
+DS 7 CROSSBACK,53 990 €,Hybride rechargeable,5 000 Km,2021,Automatique
+DS 7 CROSSBACK,33 999 €,Diesel,84 790 Km,2020,Automatique
+DS 7 CROSSBACK,37 999 €,Diesel,32 823 Km,2020,Automatique
+DS 7 CROSSBACK,34 480 €,Diesel,48 073 Km,2019,Automatique
+DS 7 CROSSBACK,34 999 €,Diesel,73 522 Km,2020,Automatique
+DS 7 CROSSBACK,37 480 €,Diesel,58 956 Km,2021,Automatique
+DS 3 CROSSBACK,25 490 €,Diesel,48 477 Km,2019,Automatique
+DS 3 CROSSBACK,23 999 €,Essence,30 467 Km,2020,Manuelle
+DS 7 CROSSBACK,33 426 €,Diesel,72 400 Km,2019,Automatique
+DS 3 CROSSBACK,22 990 €,Diesel,51 026 Km,2020,Manuelle
+DS 3 CROSSBACK,24 199 €,Essence,31 339 Km,2021,Manuelle
+DS 7 CROSSBACK,28 490 €,Diesel,96 867 Km,2018,Automatique
+DS 3 CROSSBACK,23 990 €,Essence,12 128 Km,2019,Manuelle
+DS 7 CROSSBACK,49 990 €,Hybride rechargeable,7 619 Km,2021,Automatique
+DS 3 CABRIO,19 379 €,Essence,16 800 Km,2018,Manuelle
+DS 3 CROSSBACK,24 999 €,Diesel,57 099 Km,2020,Automatique
+DS 7 CROSSBACK,25 490 €,Diesel,138 068 Km,2019,Automatique
+DS 7 CROSSBACK,43 999 €,Diesel,8 490 Km,2022,Automatique
+DS 3 CROSSBACK,26 290 €,Essence,28 500 Km,2020,Automatique
+DS 7 CROSSBACK,56 999 €,Hybride rechargeable,3 868 Km,2022,Automatique
+DS 3 CROSSBACK,24 480 €,Diesel,62 487 Km,2019,Automatique
+DS 3 CROSSBACK,26 499 €,Diesel,41 882 Km,2020,Automatique
+DS 3,16 990 €,Essence,45 900 Km,2019,Automatique
+DS 3 CROSSBACK,24 873 €,Electrique,85 900 Km,2020,Automatique
+DS 4 CROSSBACK,14 499 €,Essence,115 093 Km,2017,Manuelle
+DS 3 CROSSBACK,30 990 €,Essence,10 Km,2022,Automatique
+DS 7 CROSSBACK,38 842 €,Diesel,35 600 Km,2021,Automatique
+DS 3 CROSSBACK,25 799 €,Essence,26 457 Km,2020,Automatique
+DS 3 CROSSBACK,24 439 €,Diesel,72 900 Km,2019,Automatique
+DS 7 CROSSBACK,43 499 €,Hybride rechargeable,14 445 Km,2021,Automatique
+DS 7 CROSSBACK,39 999 €,Diesel,8 609 Km,2022,Automatique
+DS 3 CROSSBACK,29 857 €,Essence,34 500 Km,2021,Automatique
+DS 3 CROSSBACK,28 843 €,Electrique,61 400 Km,2020,Automatique
+DS 4,39 899 €,Essence,29 500 Km,2021,Automatique
+DS 7 CROSSBACK,41 472 €,Diesel,9 280 Km,2022,Automatique
+DS 3 CROSSBACK,31 999 €,Diesel,10 Km,2022,Automatique
+DS 3 CROSSBACK,30 699 €,Essence,10 Km,2022,Automatique
+DS 7 CROSSBACK,34 990 €,Diesel,62 000 Km,2019,Automatique
+DS 3 CROSSBACK,24 999 €,Essence,25 861 Km,2019,Automatique
+DS 7 CROSSBACK,43 980 €,Diesel,1 900 Km,2022,Automatique
+DS 3,16 899 €,Essence,56 073 Km,2018,Automatique
+DS 7 CROSSBACK,47 922 €,Hybride rechargeable,26 730 Km,2021,Automatique
+DS 3 CROSSBACK,28 472 €,Electrique,39 500 Km,2020,Automatique
+DS 7 CROSSBACK,59 990 €,Hybride rechargeable,8 124 Km,2021,Automatique
+DS 4,11 978 €,Diesel,112 539 Km,2017,Manuelle
+DS 3 CROSSBACK,26 979 €,Essence,10 Km,2022,Automatique
+DS 3,13 690 €,Essence,58 817 Km,2017,Manuelle
+DS 7 CROSSBACK,27 980 €,Diesel,122 092 Km,2019,Automatique
+DS 3,13 990 €,Essence,45 138 Km,2018,Manuelle
+DS 3 CROSSBACK,23 999 €,Diesel,78 487 Km,2020,Automatique
+DS 7 CROSSBACK,27 499 €,Diesel,98 317 Km,2018,Automatique
+DS 3 CROSSBACK,33 980 €,Electrique,14 500 Km,2021,Automatique
+DS 7 CROSSBACK,37 990 €,Diesel,13 200 Km,2021,Automatique
+DS 7 CROSSBACK,30 499 €,Diesel,46 688 Km,2018,Automatique
+DS 7 CROSSBACK,44 990 €,Diesel,25 000 Km,2021,Automatique
+DS 3,13 990 €,Essence,79 026 Km,2017,Manuelle
+DS 7 CROSSBACK,49 990 €,Hybride rechargeable,16 055 Km,2021,Automatique
+DS 7 CROSSBACK,46 799 €,Hybride rechargeable,17 323 Km,2021,Automatique
+DS 7 CROSSBACK,36 390 €,Diesel,35 058 Km,2021,Automatique
+DS 3,9 999 €,Diesel,104 490 Km,2016,Manuelle
+DS 3 CROSSBACK,29 485 €,Essence,25 700 Km,2021,Automatique
+DS 7 CROSSBACK,39 423 €,Diesel,43 300 Km,2020,Automatique
+DS 3 CROSSBACK,27 299 €,Essence,23 447 Km,2019,Automatique
+DS 7 CROSSBACK,39 990 €,Diesel,21 497 Km,2021,Automatique
+DS 7 CROSSBACK,32 190 €,Essence,56 957 Km,2018,Automatique
+DS,18 980 €,Diesel,62 447 Km,2020,-
+DS 7 CROSSBACK,32 990 €,Essence,39 858 Km,2020,Automatique
+DS 7 CROSSBACK,26 480 €,Diesel,112 530 Km,2018,Automatique
+DS 7 CROSSBACK,40 990 €,Hybride rechargeable,58 312 Km,2020,Automatique
+DS 3 CROSSBACK,27 996 €,Essence,24 935 Km,2021,Automatique
+DS 7 CROSSBACK,59 980 €,Hybride rechargeable,12 045 Km,2021,Automatique
+DS 7 CROSSBACK,32 990 €,Essence,11 410 Km,2020,Automatique
+DS 3 CROSSBACK,36 590 €,Diesel,1 000 Km,2022,Automatique
+DS 3 CROSSBACK,23 826 €,Essence,6 000 Km,2020,Manuelle
+DS 7 CROSSBACK,32 847 €,Diesel,77 500 Km,2018,Automatique
+DS 3 CROSSBACK,27 980 €,Essence,11 610 Km,2021,Automatique
+DS 3 CROSSBACK,39 990 €,Electrique,10 Km,2022,Automatique
+DS 7 CROSSBACK,31 990 €,Diesel,81 865 Km,2019,Automatique
+DS 7 CROSSBACK,26 980 €,Essence,84 190 Km,2018,Automatique
+DS 3 CROSSBACK,26 999 €,Essence,26 884 Km,2019,Automatique
+DS 3 CROSSBACK,24 990 €,Essence,38 507 Km,2019,Automatique
+DS 3 CROSSBACK,39 990 €,Electrique,1 000 Km,2022,Automatique
+DS 3,12 299 €,Diesel,103 148 Km,2016,Manuelle
+DS 3 CROSSBACK,26 990 €,Essence,37 431 Km,2019,Automatique
+DS 3 CROSSBACK,32 999 €,Essence,1 000 Km,2021,Automatique
+DS 4,16 480 €,Diesel,90 258 Km,2017,Manuelle
+DS 3 CROSSBACK,27 980 €,Electrique,38 853 Km,2020,Automatique
+DS 7 CROSSBACK,39 990 €,Diesel,43 046 Km,2021,Automatique
+DS 4 CROSSBACK,18 900 €,Diesel,75 797 Km,2018,Automatique
+DS 4,47 699 €,Hybride,12 085 Km,2021,Automatique
+DS 3 CROSSBACK,23 980 €,Diesel,21 510 Km,2020,Manuelle
+DS 3 CROSSBACK,26 999 €,Diesel,5 177 Km,2021,Manuelle
+DS 3 CROSSBACK,28 390 €,Essence,27 621 Km,2019,Automatique
+DS 3 CROSSBACK,35 980 €,Electrique,13 909 Km,2021,Automatique
+DS 3 CABRIO,16 480 €,Essence,44 252 Km,2016,Manuelle
+DS 7 CROSSBACK,34 990 €,Diesel,37 500 Km,2021,Automatique
+DS 7 CROSSBACK,25 980 €,Diesel,85 608 Km,2019,Manuelle
+DS 3 CROSSBACK,26 999 €,Essence,24 443 Km,2022,Manuelle
+DS 7 CROSSBACK,29 499 €,Diesel,88 659 Km,2018,Automatique
+DS 3 CROSSBACK,27 999 €,Diesel,26 022 Km,2021,Automatique
+DS 7 CROSSBACK,39 990 €,Hybride rechargeable,41 539 Km,2020,Automatique
+DS 3 CROSSBACK,28 990 €,Essence,6 770 Km,2021,Automatique
+DS 3 CROSSBACK,25 990 €,Diesel,8 212 Km,2020,Manuelle
+DS 7 CROSSBACK,39 700 €,Essence,41 866 Km,2021,Automatique
+DS 3 CROSSBACK,28 299 €,Electrique,14 725 Km,2020,Automatique
+DS 3 CROSSBACK,24 299 €,Essence,50 126 Km,2019,Automatique
+DS 3 CROSSBACK,35 990 €,Essence,500 Km,2022,Automatique
+DS 3 CROSSBACK,25 999 €,Diesel,40 590 Km,2020,Manuelle
+DS 7 CROSSBACK,44 980 €,Diesel,20 000 Km,2021,Automatique
+DS 7 CROSSBACK,33 982 €,Diesel,28 456 Km,2021,Automatique
+DS 5,16 899 €,Diesel,96 167 Km,2018,Automatique
+DS 3 CROSSBACK,32 490 €,Diesel,14 568 Km,2021,Automatique
+DS 3 CROSSBACK,32 790 €,Diesel,14 900 Km,2022,Automatique
+DS 9,51 990 €,Hybride,29 000 Km,2021,Automatique
+DS 7 CROSSBACK,35 499 €,Diesel,44 481 Km,2021,Automatique
+DS 3 CROSSBACK,21 980 €,Essence,47 815 Km,2019,Manuelle
+DS 7 CROSSBACK,59 999 €,Hybride rechargeable,4 987 Km,2021,Automatique
+DS 3,16 999 €,Essence,50 596 Km,2018,Manuelle
+DS 7 CROSSBACK,34 999 €,Diesel,31 604 Km,2019,Automatique
+DS 3,12 872 €,Essence,87 200 Km,2016,Manuelle
+DS 4,47 990 €,Essence,3 435 Km,2021,Automatique
+DS 3 CROSSBACK,22 999 €,Diesel,23 850 Km,2020,Manuelle
+DS 3 CROSSBACK,26 999 €,Essence,31 731 Km,2020,Automatique
+DS 7 CROSSBACK,52 990 €,Hybride rechargeable,1 200 Km,2021,Automatique
+DS 7 CROSSBACK,43 799 €,Hybride rechargeable,25 836 Km,2020,Automatique
+DS 3 CROSSBACK,32 999 €,Electrique,25 955 Km,2022,Automatique
+DS 3 CROSSBACK,41 999 €,Electrique,1 682 Km,2022,Automatique
+DS 7 CROSSBACK,34 980 €,Diesel,31 896 Km,2021,Automatique
+DS 3 CROSSBACK,32 499 €,Electrique,9 999 Km,2021,Automatique
+DS 4,44 493 €,Essence,5 900 Km,2022,Automatique
+DS 7,59 999 €,Hybride rechargeable,2 500 Km,2022,Automatique
+DS 3 CROSSBACK,28 869 €,Essence,32 200 Km,2021,Automatique
+DS 3 CROSSBACK,27 990 €,Electrique,12 000 Km,2021,Automatique
+DS 7 CROSSBACK,35 299 €,Diesel,43 422 Km,2021,Automatique
+DS 9,47 990 €,Hybride,30 745 Km,2021,Automatique
+DS 7 CROSSBACK,43 889 €,Hybride rechargeable,42 263 Km,2021,Automatique
+DS 3 CROSSBACK,30 893 €,Diesel,16 300 Km,2021,Automatique
+DS 3 CROSSBACK,29 999 €,Diesel,19 712 Km,2021,Automatique
+DS 3 CROSSBACK,28 999 €,Diesel,10 Km,2022,Automatique
+DS 3 CROSSBACK,22 980 €,Essence,50 170 Km,2021,Manuelle
+DS 7 CROSSBACK,30 999 €,Diesel,74 957 Km,2018,Automatique
+DS 7 CROSSBACK,51 990 €,Hybride,5 900 Km,2021,Automatique
+DS 3 CROSSBACK,25 980 €,Essence,28 400 Km,2019,Automatique
+DS 3 CROSSBACK,29 999 €,Diesel,22 072 Km,2021,Automatique
+DS 3 CROSSBACK,24 999 €,Diesel,42 783 Km,2019,Automatique
+DS 3 CROSSBACK,23 899 €,Diesel,59 893 Km,2020,Automatique
+DS 7 CROSSBACK,47 990 €,Essence,13 000 Km,2021,Automatique
+DS 3 CROSSBACK,26 999 €,Diesel,52 002 Km,2020,Automatique
+DS 4,46 999 €,Hybride,5 890 Km,2021,Automatique
+DS 3 CROSSBACK,27 990 €,Essence,15 Km,2021,Automatique
+DS 3 CROSSBACK,25 999 €,Essence,19 019 Km,2020,Automatique
+DS 7 CROSSBACK,38 990 €,Diesel,23 059 Km,2021,Automatique
+DS 4,37 390 €,Essence,10 704 Km,2022,Automatique
+DS 7 CROSSBACK,29 490 €,Diesel,83 764 Km,2018,Automatique
+DS 7 CROSSBACK,35 467 €,Diesel,59 400 Km,2020,Automatique
+DS 7 CROSSBACK,34 790 €,Diesel,21 236 Km,2021,Automatique
+DS 4,38 998 €,Diesel,10 240 Km,2022,Automatique
+DS 3 CROSSBACK,33 900 €,Diesel,9 500 Km,2021,Automatique
+DS 7 CROSSBACK,45 599 €,Hybride rechargeable,24 193 Km,2022,Automatique
+DS 3 CROSSBACK,20 799 €,Diesel,104 788 Km,2020,Automatique
+DS 3,13 490 €,Diesel,100 222 Km,2016,Manuelle
+DS 7 CROSSBACK,25 990 €,Diesel,102 318 Km,2018,Automatique
+DS 7 CROSSBACK,37 980 €,Diesel,25 000 Km,2020,Automatique
+DS 3 CROSSBACK,24 980 €,Essence,16 918 Km,2020,Manuelle
+DS 7 CROSSBACK,47 999 €,Hybride rechargeable,12 871 Km,2020,Automatique
+DS 3 CROSSBACK,26 399 €,Essence,23 336 Km,2022,Manuelle
+DS 3 CROSSBACK,29 990 €,Electrique,20 100 Km,2020,Automatique
+DS 3 CABRIO,14 669 €,Diesel,84 530 Km,2017,Manuelle
+DS 7 CROSSBACK,51 999 €,Hybride rechargeable,10 100 Km,2022,Automatique
+DS 3,16 990 €,Essence,57 624 Km,2018,Automatique
+DS 3 CROSSBACK,30 299 €,Diesel,18 316 Km,2021,Automatique
+DS 3 CROSSBACK,25 499 €,Essence,24 413 Km,2021,Manuelle
+DS 7 CROSSBACK,43 999 €,Diesel,29 909 Km,2021,Automatique
+DS 4,42 980 €,Essence,2 458 Km,2022,Automatique
+DS 3 CROSSBACK,26 490 €,Diesel,43 057 Km,2021,Automatique
+DS 7 CROSSBACK,33 999 €,Essence,64 527 Km,2019,Automatique
+DS 3 CROSSBACK,27 999 €,Essence,30 408 Km,2021,Automatique
+DS 7 CROSSBACK,32 990 €,Diesel,53 717 Km,2020,Automatique
+DS 3 CROSSBACK,26 999 €,Essence,27 659 Km,2019,Automatique
+DS 3 CROSSBACK,27 990 €,Essence,11 539 Km,2020,Automatique
+DS 7 CROSSBACK,34 852 €,Diesel,51 500 Km,2019,Automatique
+DS 7 CROSSBACK,45 999 €,Hybride rechargeable,27 104 Km,2020,Automatique
+DS 3 CROSSBACK,28 433 €,Electrique,45 200 Km,2020,Automatique
+DS 7 CROSSBACK,28 999 €,Essence,101 887 Km,2018,Automatique
+DS 3 CROSSBACK,25 990 €,Essence,36 456 Km,2019,Automatique
+DS 7 CROSSBACK,55 990 €,Hybride rechargeable,13 000 Km,2022,Automatique
+DS 4,46 891 €,Essence,4 900 Km,2022,Automatique
+DS 7 CROSSBACK,25 990 €,Diesel,76 802 Km,2018,Manuelle
+DS 4,12 480 €,Essence,126 409 Km,2017,Manuelle
+DS 4,13 799 €,Diesel,138 000 Km,2017,Automatique
+DS 5,15 990 €,Diesel,113 370 Km,2016,Automatique
+DS 5,16 499 €,Diesel,99 377 Km,2018,Manuelle
+DS 3 CROSSBACK,30 999 €,Electrique,9 022 Km,2020,Automatique
+DS 3,17 499 €,Essence,23 820 Km,2017,Manuelle
+DS 7 CROSSBACK,59 999 €,Hybride rechargeable,1 817 Km,2022,Automatique
+DS 3 CROSSBACK,26 399 €,Diesel,12 597 Km,2021,Manuelle
+DS 7 CROSSBACK,41 990 €,Hybride rechargeable,30 000 Km,2020,Automatique
+DS 7 CROSSBACK,30 799 €,Diesel,81 405 Km,2020,Automatique
+DS 7 CROSSBACK,31 399 €,Diesel,52 802 Km,2019,Automatique
+DS 3,14 693 €,Essence,62 100 Km,2018,Manuelle
+DS 3 CROSSBACK,29 499 €,Electrique,34 817 Km,2020,Automatique
+DS 7 CROSSBACK,35 799 €,Essence,22 814 Km,2020,Automatique
+DS 3 CROSSBACK,25 999 €,Essence,15 389 Km,2021,Manuelle
+DS 3 CROSSBACK,32 499 €,Diesel,6 457 Km,2022,Automatique
+DS 3 CROSSBACK,21 999 €,Diesel,17 047 Km,2019,Manuelle
+DS 7 CROSSBACK,51 990 €,Hybride rechargeable,9 400 Km,2021,Automatique
